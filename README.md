@@ -1,7 +1,7 @@
 # Release Notes Retiever
 
-[![Release](https://img.shields.io/github/v/release/ttldtor/ReleaseNotesRetiever)](https://github.com/ttldtor/ReleaseNotesRetiever/releases/latest)
-[![License](https://img.shields.io/badge/license-Unlicense-orange)](https://github.com/ttldtor/ReleaseNotesRetiever/blob/master/LICENSE)
+[![Release](https://img.shields.io/github/v/release/ttldtor/ReleaseNotesRetriever)](https://github.com/ttldtor/ReleaseNotesRetriever/releases/latest)
+[![License](https://img.shields.io/badge/license-Unlicense-orange)](https://github.com/ttldtor/ReleaseNotesRetriever/blob/master/LICENSE)
 
 **A utility that helps retrieve lines from Release Notes that refer to the latest version of an application or 
 library mentioned there, or to a specified version.**
